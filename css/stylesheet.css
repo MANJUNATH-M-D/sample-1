@@ -1,0 +1,13 @@
+body{
+    background-image: url('../img/godzilla_vs_kong.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+max-width: 300px;
+}
+div{
+    border: 5px solid red;
+    display: block;
+    float: left;
+}
